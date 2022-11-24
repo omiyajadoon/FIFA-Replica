@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3af9c3d8.css",
+    "main.js": "/static/js/main.15feeca6.js",
+    "static/media/fifth.jpeg": "/static/media/fifth.83b740d466d8376b4c6a.jpeg",
+    "static/media/third.jpeg": "/static/media/third.18fb2ee262bb938535fd.jpeg",
+    "static/media/brazil.png": "/static/media/brazil.dc930ec06df330897a81.png",
+    "static/media/seventh.jpeg": "/static/media/seventh.d96de364a5c7d1543bbb.jpeg",
+    "static/media/sixth.jpeg": "/static/media/sixth.327d9f5595570ccc1029.jpeg",
+    "static/media/fifalogo.png": "/static/media/fifalogo.876c5753c246f694e786.png",
+    "static/media/fourth.jpeg": "/static/media/fourth.8f9a5a91a6347be42d2a.jpeg",
+    "static/media/fifapartners.PNG": "/static/media/fifapartners.a62bdcb7477e006b0d38.PNG",
+    "static/media/usa.png": "/static/media/usa.51121d15048a2c2e5732.png",
+    "static/media/second.jpeg": "/static/media/second.818dd0a8047bcfcad48f.jpeg",
+    "static/media/first.jpeg": "/static/media/first.f2626d40930c8436aad3.jpeg",
+    "index.html": "/index.html",
+    "main.3af9c3d8.css.map": "/static/css/main.3af9c3d8.css.map",
+    "main.15feeca6.js.map": "/static/js/main.15feeca6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3af9c3d8.css",
+    "static/js/main.15feeca6.js"
+  ]
+}
